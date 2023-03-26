@@ -3,3 +3,6 @@ Password generator made in python.
 PassGenius - Owned by Chan.#1762
 Version 1.0 2023
 ![image](https://user-images.githubusercontent.com/87248999/227792616-26bf887f-fbbf-467b-a60e-799f31fe2335.png)
+
+![image](https://user-images.githubusercontent.com/87248999/227792630-c3b58570-9e7b-4ef1-b86c-6ae8ef21e868.png)
+
