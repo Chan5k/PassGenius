@@ -7,6 +7,7 @@ from tkinter import messagebox
 window = tk.Tk()
 window.title("PassGenius")
 window.geometry("400x350")
+window.iconbitmap("E:\Downloads\OIP.ico")
 
 # Define the password variable
 password = tk.StringVar()
